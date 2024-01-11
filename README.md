@@ -16,8 +16,8 @@
   <img align="center" alt="Ray-Python" height="28" width="25" src="https://github.com/rayanesousa31/rayanesousa31/blob/3d134396161bf91ac91d7daf4903139df52df3e6/800px-HTML5_Badge.svg.png">
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://github.com/rayanesousa31/rayanesousa31/blob/ad0a2bd7dcc38edbe192194197ab9282802429f6/.github/workflows/cobrinha.yml)
+
+![Snake animation](https://github.com/rayanesousa31/rayanesousa31/blob/2ed0350b91d350a0ded01c741ba7123b21ee33f7/github-contribution-grid-snake.svg)
  
 <div> 
   <a href="https://www.linkedin.com/in/rayanedesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
