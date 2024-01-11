@@ -23,7 +23,6 @@
   <a href="https://www.linkedin.com/in/rayanedesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake animation](https://github.com/rayanesousa31/rayanesousa31/blob/output/github-contribution-grid-snake2.svg)
 
 ![snake animation](https://github.com/rayanesousa31/rayanesousa31/blob/35db5de81287c8a85e71f042ae9dc4512e68b5a2/.github/workflows/snake.yml)
 
