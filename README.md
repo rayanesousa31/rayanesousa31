@@ -17,7 +17,7 @@
 </div>
 
 
-![Snake animation](https://github.com/rayanesousa31/rayanesousa31/blob/2ed0350b91d350a0ded01c741ba7123b21ee33f7/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rayanesousa31/rayanesousa31/blob/52df39e5878f84f9349e402db280872925e8eeb3/.github/workflows/cobrinha.yml)
  
 <div> 
   <a href="https://www.linkedin.com/in/rayanedesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
