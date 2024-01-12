@@ -18,7 +18,10 @@
 
 
 #
- 
+
+ ![snake animation](https://github.com/rayanesousa31/rayanesousa31/blob/output/github-contribution-grid-snake2.svg)
+
+ #
 <div> 
   <a href="https://www.linkedin.com/in/rayanedesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
