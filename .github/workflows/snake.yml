@@ -12,12 +12,15 @@ jobs:
     steps:
       # Snake Animation
       - name: Snake Animation
-        uses: Sutil/snk@master
+      - uses: Sutil/snk@master
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'blue'
+        
+      - name: Set SVG Output Path
+        run: echo "SVG_OUT_PATH=dist/github-contribution-grid-snake2.svg" >> $GITHUB_ENV
+
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
