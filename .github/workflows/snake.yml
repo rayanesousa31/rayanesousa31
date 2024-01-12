@@ -14,16 +14,27 @@ jobs:
         uses: Sutil/snk@master
         id: snake-gif
         with:
-          github_user_name: rayanesousa31
+          github_user_name: ${{ github.repository_owner }}
           snake_color: 'blue'
 
       - name: Set SVG Output Path
         run: echo "SVG_OUT_PATH=dist/github-contribution-grid-snake2.svg" >> $GITHUB_ENV
+
+      - name: Create Dist Directory
+        run: mkdir -p dist
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          domain: github.com
+          keep_history: false
+          allow_empty_commit: true
+          absolute_build_dir: false
+          follow_symlinks: false
+          jekyll: true
+          dry_run: false
+          verbose: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
